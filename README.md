@@ -7,7 +7,7 @@
 
 ## SIH26-A0H-T309
 ### Team Details
-#### **Team Name** <<Sixth Sense>> <br/>
+#### **Team Name <<Sixth Sense>> <br/>
 #### Team Members
 |         Role    |         👤 Name         |   🎓 Roll Number      |     ⚧️ Gender   |    🏫 Department / Programme   |
 |:---------------:|:------------------------|:----------------------:|:---------------:|:-------------------------------:| 
